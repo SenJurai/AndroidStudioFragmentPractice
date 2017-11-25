@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Activity1</string>
+
+    <string name="btn_divide">Divide</string>
+    <string name="btn_mult">Multiply</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_sub">Subtract</string>
+
+    <string name="btn_change">Change Text</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Welcome to Simple Calculator!</string>
+
+</resources>
